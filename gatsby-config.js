@@ -34,6 +34,7 @@ module.exports = {
     `gatsby-plugin-postcss`,
     `gatsby-plugin-css-customs`,
     `gatsby-plugin-styled-components`,
+    `gatsby-plugin-fontawesome-css`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
